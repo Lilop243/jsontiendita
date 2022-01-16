@@ -43,5 +43,26 @@
             "precio":700,
             "img":"https://image.freepik.com/foto-gratis/grupo-prima-pimientos-vegetal_1203-5954.jpg"
         }
+    ],
+
+    "ubicacion":[
+
+        {
+            "id":1,
+            "ciudad":"Bogota"
+        },
+
+        {
+            "id":2,
+            "ciudad":"suba"
+        },
+        {
+            "id":3,
+            "ciudad":"bosa"
+        },
+        {
+            "id":4,
+            "ciudad":"usme"
+        }
     ]
 }
